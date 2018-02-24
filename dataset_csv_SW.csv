@@ -1,0 +1,32 @@
+name,timestamp,longitude,latitude,phone_brand_en,gender,age_segment,location
+Bears Down,01/09/2001,-4.953055556,50.47305556,Bonus,Onshore,0-9,Cornwall
+Carland Cross,01/08/1992,-5.03,50.35138889,Vestas,Onshore,0-9,Cornwall
+Cold Northcott,01/04/1993,-4.518611111,50.63722222,WEG,Onshore,0-9,Cornwall
+Delabole[2],01/11/1991,-4.704166667,50.63722222,Vestas,Onshore,0-9,Cornwall
+Four Burrows,01/03/1998,-5.145555556,50.29166667,Bonus,Onshore,0-9,Cornwall
+Goonhilly Repowering,01/10/2010,-5.198888889,50.04611111,Vestas,Onshore,43739,Cornwall
+St Breock,01/05/1994,-4.8625,50.47666667,Bonus,Onshore,0-9,Cornwall
+WWF Roskrow Barton,01/02/2008,-5.152222222,50.17194444,Vestas,Onshore,0-9,Cornwall
+Askam,01/07/1999,-3.172222222,54.18722222,Vestas,Onshore,0-9,Wiltshire
+Eastman (Voridian),01/10/2006,-3.5425,54.66416667,REpower,Onshore,0-9,Wiltshire
+Fairfield,01/02/2011,-3.525277778,54.57361111,Nordex,Onshore,0-9,Wiltshire
+Great Orton II,01/01/2000,-3.075277778,54.86694444,Vestas,Onshore,0-9,Wiltshire
+Harlock Hill,01/01/1997,-3.157777778,54.21888889,Wind,Onshore,0-9,Wiltshire
+Haverigg II,01/07/1998,-3.329166667,54.20083333,Wind,Onshore,0-9,Wiltshire
+Haverigg III,01/03/2005,-3.329166667,54.20083333,Vestas,Onshore,0-9,Wiltshire
+Kirkby Moor,01/09/1993,-3.152222222,54.24611111,Vestas,Onshore,0-9,Wiltshire
+Lambrigg,01/09/2000,-2.638333333,54.33527778,Bonus,Onshore,0-9,Wiltshire
+Lowca,01/03/2000,-3.575833333,54.59277778,Vestas,Onshore,0-9,Wiltshire
+Oldside,01/10/1996,-3.559444444,54.65944444,Vestas,Onshore,0-9,Wiltshire
+Siddick,01/10/1996,-3.543055556,54.67111111,Vestas,Onshore,0-9,Wiltshire
+Wharrels Hill,01/08/2007,-3.2825,54.72666667,Nordex,Onshore,43739,Wiltshire
+Winscales Moor,01/05/2009,-3.496944444,54.64222222,Vestas,Onshore,0-9,Wiltshire
+Winscales,01/12/1999,-3.0875,54.86416667,Vestas,Onshore,0-9,Wiltshire
+Winscales Extension,01/02/2005,-3.0875,54.86416667,Vestas,Onshore,0-9,Wiltshire
+WWU High Pow,01/03/2007,-3.159722222,54.78083333,Nordex,Onshore,0-9,Wiltshire
+Forestmoor,01/03/2005,-4.415833333,50.89416667,Vestas,Onshore,0-9,Devon
+Bristol Port,01/08/2007,-2.685555556,51.49444444,Enercon,Onshore,0-9,Gloucestershire
+Bristol Port,01/08/2008,-2.685555556,51.49444444,Enercon,Onshore,0-9,Gloucestershire
+Bristol Port,01/08/2009,-2.685555556,51.49444444,Enercon,Onshore,0-9,Gloucestershire
+Bristol Port,01/08/2010,-2.685555556,51.49444444,Enercon,Onshore,0-9,Gloucestershire
+Bristol Port,01/08/2011,-2.685555556,51.49444444,Enercon,Onshore,0-9,Gloucestershire
